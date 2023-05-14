@@ -1,5 +1,5 @@
 # Sistema GetSchool
-![Logo](https://github.com/cswisni/SistemaGetSchool/blob/main/LogoGetSchool.png)
+![Logo](https://github.com/cswisni/SistemaGetSchool/blob/main/LogoGetSchoolII.png)
 
 Sistema GetSchool é uma aplicação de gestão escolar em desenvolvimento para o Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário Senac.
 
